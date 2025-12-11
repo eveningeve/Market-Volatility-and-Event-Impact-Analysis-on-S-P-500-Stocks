@@ -71,3 +71,6 @@ To run the RAG agent locally:
 ## Generative AI Disclaimer
 
 Elements of this research workflow were supported through the use of Generative Artificial Intelligence (GenAI) tools. GenAI was used to provide guidance on syntax selection, package options, and debugging assistance for coding tasks related to data processing and analysis. All final code, results, and interpretations were independently reviewed and validated by the research team.
+
+## Other Contributors
+Junhan Chen, Nicholas Howard, Mohammed Zaid Bin Haris
