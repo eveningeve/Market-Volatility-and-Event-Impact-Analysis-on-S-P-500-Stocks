@@ -1,0 +1,17 @@
+requests
+beautifulsoup4
+lxml
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+pyspark
+ratelimit
+rapidfuzz
+sentence-transformers 
+pinecone 
+tqdm
+python-dotenv
+openai
+streamlit
